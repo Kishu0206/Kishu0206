@@ -154,5 +154,15 @@ class MusicStreamingService {
         // Play a playlist
         streamingService.playPlaylist("Favorites");
     }
-
 }
+
+//Remove the character from the playList ("Sendkey","addSongsToplaylist)
+//streaming the character playList (Stream.sendKeys)
+//External the charcter playlist (stream.visualtreat)
+//External the character playlist (stream.visual)
+//External the character playlist ("Sendkeys).(stream.h)
+//External the character playlist ("Sendkeys.stream)
+//External character playlist ("Sendkeys.stream)
+//playlist playPlaylist("sendkeys.stream)
+//playlist playPlaylist("sendKeys.stram)
+//
